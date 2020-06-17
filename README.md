@@ -1,10 +1,9 @@
 # HackerRank
 Solutions of HackerRank Problems
 All the files are the solutions of HackerRank Problems.
-YOu can directly copy paste and run the code.
+You can directly copy & paste and run the code.
 Hope it will be helpful for you.
 
 Thank you.
-
 
 Made by Lalit Kumar Gangwar
